@@ -1,0 +1,6 @@
+# Ignore the following files
+formatted_train.tsv
+formatted_valid.tsv
+formatted_test.tsv
+smalltrain_out.labels
+smalltest_out.labels
